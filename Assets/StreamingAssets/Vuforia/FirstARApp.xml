@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mp" size="6.000000 8.000000" />
+    <ImageTarget name="omp" size="6.000000 8.000000" />
+    <ImageTarget name="sb" size="6.000000 8.000000" />
+    <ImageTarget name="CA" size="6.000000 8.000000" />
+    <ImageTarget name="Korean-Ramen" size="6.000000 8.000000" />
+    <ImageTarget name="burger" size="6.000000 1.846523" />
+  </Tracking>
+</QCARConfig>
